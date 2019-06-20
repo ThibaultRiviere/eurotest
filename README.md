@@ -1,4 +1,4 @@
-i# Headtohead
+# Headtohead
 
 ## Installation
 
