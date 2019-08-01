@@ -5,12 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha tests/",
-    "server": "node bin/server"
+    "server": "node bin/server",
+    "ok": "npx semantic-release"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.17.1",
+    "npx": "^10.2.0",
+    "semantic-release": "^15.13.19"
   },
   "devDependencies": {
     "chai": "^4.2.0",
